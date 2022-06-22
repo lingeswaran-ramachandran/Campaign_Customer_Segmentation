@@ -12,3 +12,9 @@
 
 
 Description : Trained with 31648 data to predict the outcome of campaign using deep-learning
+
+# The best accuracy
+![best_accuracy](best_accuracy.JPG)
+
+## Github link URL
+![click_me]('')
