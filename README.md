@@ -17,4 +17,4 @@ Description : Trained with 31648 data to predict the outcome of campaign using d
 ![best_accuracy](best_accuracy.JPG)
 
 ## Github link URL
-![click_me]('')
+![click_me]('https://github.com/lingeswaran-ramachandran/Campaign_Customer_Segmentation.git')
